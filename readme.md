@@ -40,8 +40,7 @@ This project is my small tribute to that simple yet powerful tool from my childh
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/neumorphic-calculator.git
-   cd neumorphic-calculator
+ (https://github.com/alizaGhanci/scientific-calculator.git)
 2. Open index.html in your browser.
    No installations required!
 
